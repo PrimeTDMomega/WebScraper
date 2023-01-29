@@ -1,3 +1,6 @@
+# I would say I'm decent at Python lol
+
+
 import asyncio
 import json
 import math
